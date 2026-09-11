@@ -10,5 +10,5 @@ micro:bitと電池ボックスをセットにするためのホルダーです�
 ![](03.jpg)
 
 ## データ
-- [STLデータ](https://github.com/kwaka1208/make/blob/main/micobit_lego/microbit+battery_holder_noswitch.stl))
+- [STLデータ](https://github.com/kwaka1208/make/blob/main/microbit_lego/microbit%2Bbattery_holder_noswitch.stl)
 - [プロジェクトを開く（Tinkercad）](https://www.tinkercad.com/codeblocks/jrAOePfwhzF-microbitbatteryholdernoswitch)
